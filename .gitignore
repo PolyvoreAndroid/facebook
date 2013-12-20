@@ -3,3 +3,4 @@ gen
 *.iml
 *.class
 .settings/
+facebook/build
